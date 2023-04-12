@@ -2,7 +2,7 @@
 ### Olá, me chamo João Vitor Fernandes 👋
 ### Bem vindo ao meu perfil!
 
-
+<img src="cat-typing.gif">
           
 ### Ferramentas e Tecnologias:
 
