@@ -1,5 +1,6 @@
+
 ### Olá, me chamo João Vitor Fernandes 👋
-### Bem vindo ao meu perfil!
+### Bem vindo ao meu perfil! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--
 **FRNS1/FRNS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
