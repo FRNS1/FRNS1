@@ -2,7 +2,7 @@
 ### Olá, me chamo João Vitor Fernandes 👋
 ### Bem vindo ao meu perfil!
 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/cat-typing-gif-22904866">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat+typing-gifs">Cat Typing GIFs</a> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Ferramentas e Tecnologias:
 
