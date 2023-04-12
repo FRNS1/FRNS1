@@ -1,6 +1,10 @@
 
 ### Olá, me chamo João Vitor Fernandes 👋
-### Bem vindo ao meu perfil! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="color: white" width="40" height="40"/>
+### Bem vindo ao meu perfil!
+
+### Ferramentas e Tecnologias:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
 
 <!--
