@@ -2,9 +2,7 @@
 ### Olá, me chamo João Vitor Fernandes 👋
 ### Bem vindo ao meu perfil!
 
-<div>
-<div class="tenor-gif-embed" data-postid="21481919" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919"></a><a href="https://tenor.com/search/cat-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
           
 ### Ferramentas e Tecnologias:
 
