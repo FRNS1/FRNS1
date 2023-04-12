@@ -18,6 +18,8 @@
           <a href="https://www.linkedin.com/in/joaofernandesferreira/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 </div>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **FRNS1/FRNS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
